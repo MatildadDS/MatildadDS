@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 <img width="772" alt="Capture d’écran 2021-03-31 à 22 01 08" src="https://user-images.githubusercontent.com/70516554/113203808-c722c500-926c-11eb-8c07-df9d9facdeb6.png">
 
  🌱 I’m currently learning Javascript and a few back-end touches as well.  
- I'm eager to join a team of passionate experts who will allow me to optimize the development of my skills.
