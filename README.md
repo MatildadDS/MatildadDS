@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - A crazy MERN stack project for a multidisciplinary artist I love. An honor and a big challenge 💥
 - Approaching Tailwind
-- Finding an apprenticeship and being surrounded by talented tech doers
+- Being surrounded by talented tech doers to build skills.
 
 ---
 
