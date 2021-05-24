@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Javascript and a few back-end touches as well. 🌱
 
+🚀 My roadmap:
+
+- A crazy MERN stack project for a multidisciplinary artist I love. An honor and a big challenge 💥
+- Approaching Tailwind
+- Finding an apprenticeship and being surrounded by talented tech doers
+
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
